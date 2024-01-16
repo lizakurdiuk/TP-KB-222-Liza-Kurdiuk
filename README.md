@@ -14,4 +14,7 @@ add solution for task01 task02 task03
 add folder topic_05
 add solution for task01 task02 task03
 
+add folder topic_06
+add solution for task01 task2
+
 # TP-KB-222-Liza-Kurdiuk
