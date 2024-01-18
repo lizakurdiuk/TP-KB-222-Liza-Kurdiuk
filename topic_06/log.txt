@@ -1,0 +1,9 @@
+
+
+	2024-01-18 13:11:51 
+Instance: 78.0 * 3.0 = 234.0 
+Operation: *, First num: 78.0, Second num: 3.0, Result or operation: 234.0
+
+	2024-01-18 13:12:56 
+Instance: 345.0 + 679.0 = 1024.0 
+Operation: +, First num: 345.0, Second num: 679.0, Result or operation: 1024.0
